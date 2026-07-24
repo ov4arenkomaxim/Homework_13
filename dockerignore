@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+.git/
+.gitignore
+students.csv
+server.log
+results.txt
+test_requests.py
+README.md
+screenshots/
+.vscode/
